@@ -6,7 +6,7 @@ I have a Bachelor's in Computer Engineering, specializing in Data Science, and c
 
 - **Programming Language**
 <p>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%23de85da.svg?logo=python&logoColor=white"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%234371a6.svg?logo=python&logoColor=white"></a>
 </p>
 
 - **Main Libraries**
@@ -14,7 +14,7 @@ I have a Bachelor's in Computer Engineering, specializing in Data Science, and c
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://huggingface.co/"><img alt="HuggingFaceEcosystem" src="https://img.shields.io/badge/HuggingFaceEcosystem-ffe365"></a>
-    <a href="https://spacy.io/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy%20-%23628DFF.svg?logo=spacy&logoColor=white"></a> 
+    <a href="https://spacy.io/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy%20-%2365d3ff.svg?logo=spacy&logoColor=white"></a> 
     <a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK%20-%23cb8fff.svg?logo=nltk&logoColor=white"></a>
 </p>
 
