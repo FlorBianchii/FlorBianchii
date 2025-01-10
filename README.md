@@ -1,6 +1,7 @@
 ## Hi there, I'm Florencia Bianchi 👋
 
-I have a Bachelor's in Computer Engineering, specializing in Data Science, and currently working as a Data Scientist.  Alongside traditional data science tasks, I also specialize in Natural Language Processing (NLP) to tackle text-based challenges. My goal is to continuously enhance my skills and knowledge in data science by staying informed about emerging trends and tools. I thrive on experimenting with new technologies and approaches to solve problems efficiently and innovatively.
+I have a Bachelor's in Computer Engineering, specializing in Data Science, and currently working as a Data Scientist.  Alongside traditional data science tasks, I also specialize in Natural Language Processing (NLP) to tackle text-based challenges. 
+My goal is to continuously enhance my skills and knowledge in data science by staying informed about emerging trends and tools. I thrive on experimenting with new technologies and approaches to solve problems efficiently and innovatively.
 
 ### 📚 Expertise and Technologies
 
