@@ -4,7 +4,7 @@ I have a Bachelor's in Computer Engineering, specializing in Data Science, and c
 
 ### 📚 Expertise and Technologies
 
-- **Programming with Python** <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+- **Programming Language**
 <p>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 </p>
